@@ -1,0 +1,11 @@
+C:\Users\israe\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\israe\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\israe\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\israe\source\repos\CRUD\CRUD\bin\Debug\sqlConnectionLibrary.dll
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\israe\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb
